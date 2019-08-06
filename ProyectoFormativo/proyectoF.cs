@@ -49,3 +49,6 @@ namespace ProyectoFormativo
         #endregion
     }
 }
+//Proyecto Formativo Realizado por:
+//Carlos Eduardo Cruz Aguilar
+//Miguel Alejandro Luis Lopez

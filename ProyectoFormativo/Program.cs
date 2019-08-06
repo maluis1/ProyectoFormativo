@@ -17,3 +17,6 @@ namespace ProyectoFormativo
         }
     }
 }
+       //Proyecto Formativo Realizado por:
+       //Carlos Eduardo Cruz Aguilar
+       //Miguel Alejandro Luis Lopez
