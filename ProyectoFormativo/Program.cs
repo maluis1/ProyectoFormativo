@@ -4,6 +4,7 @@ namespace ProyectoFormativo
 {
     class Program
     {
+        float b;
         static void Main(string[] args)
         {
             proyectoF proyecto1 = new proyectoF();
