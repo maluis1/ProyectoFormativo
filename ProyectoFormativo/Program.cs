@@ -4,7 +4,8 @@ namespace ProyectoFormativo
 {
     class Program
     {
-        float c;
+        
+
        
         static void Main(string[] args)
         {
