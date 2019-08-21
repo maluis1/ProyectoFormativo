@@ -4,8 +4,9 @@ namespace ProyectoFormativo
 {
     class Program
     {
-        
 
+        string nombre;
+        int edad;
        
         static void Main(string[] args)
         {
